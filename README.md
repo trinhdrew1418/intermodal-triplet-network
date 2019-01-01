@@ -18,5 +18,5 @@ For each given image (on the bottom of each list), the 10 nearest words are retr
 
 For each text query, the nearest 3 images are retrieved using FAISS
 
-![](images/text_to_image/1.png) ![](images/text_to_image/2.png) ![](images/text_to_image/3.png)
+![](images/text_to_image/1.png) ![](images/text_to_image/7.png) ![](images/text_to_image/3.png)
 ![](images/text_to_image/4.png) ![](images/text_to_image/5.png) ![](images/text_to_image/6.png)
