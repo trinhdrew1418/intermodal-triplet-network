@@ -1,7 +1,7 @@
-# Intermodal Triplet Learning for Cross-modal Retrieval
+# Intermodal Triplet Learning for Crossmodal Retrieval
 
-A PyTorch implementation for an inter-modal triplet network to learn the joint embedding space of both text and
-images. An application is cross-modal retrieval where given an image, we obtain the most relevant words and
+A PyTorch implementation for an intermodal triplet network to learn the joint embedding space of both text and
+images. An application is crossmodal retrieval where given an image, we obtain the most relevant words and
 vice versa.
 
 This particular implementation was trained on the NUSWIDE dataset that contains 81 groundtruth tags for each
